@@ -28,7 +28,7 @@ So those victory points will trigger your goal and whatever else you have progra
 PS: It is recommended to play a new game on a save file that has already finished a play-through. (You don't have to but it will make the Band's you receive via AP items useless). Getting these Bands are checks/locations.
 
 Some save game data if you want to pick one that has save data with a cleared playthrough to be able to get the bands in your run:
-Save Game Files
+[Save Game Files](https://discord.com/channels/1097532591650910289/1407405321621602334/1407405321621602334)
 
 CHECKS:
 Completing a story chapter give you a check.
@@ -43,7 +43,7 @@ Any weapon that is not listed as a receivable item is considered unlocked from t
 IMPORTANT Clarification: on the "Choose X character" items: This really only applies to Chapter 8 and onwards. The lack of these items in your playthrough does not impact chapters 1-7 because you don't have the option of choosing your units before you start the map. Starting chapter 8+ you will have to have those specific items to allow you to choose more units besides Ike.
 
 Optionally you can also use Lush’s FE Universal Randomizer, “Yune”.
-Yune Randomizer
+[Yune Randomizer](https://discord.com/channels/1097532591650910289/1407405321621602334/1407405321621602334)
 
 Any suggestions/changes/feedback would be greatly appreciated!
 
