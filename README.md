@@ -2,8 +2,8 @@
 
 Manual APworld for use with the Archipelago randomizer.
 
-There are now 252 Items
-And 301 Locations/Checks (Added all items dropped by enemies)
+There are now 269 Items
+And 310 Locations/Checks (Added all items dropped by enemies)
 If you are playing on a difficulty where the item is not available you can simply clear the chapter to collect the check manually.
 Also I have programmed what should be a SIGNIFICANT improvement to the game's logic. Keep in mind it's still an AP world. The multiworlds will be randomized and you could still experience bad luck. But overall this should drastically improve the experience for those playing the Manual and also the rest of the multiworld's players in the Sync or Async.
 
